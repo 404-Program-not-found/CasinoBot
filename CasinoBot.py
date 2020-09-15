@@ -223,4 +223,4 @@ async def on_ready():
     print('We have logged in as {0.user}'.format(bot))
 
 
-bot.run('NzU0OTE4MDkzOTIyNTAwNzA4.X17uQw.PsUXYzBSLQuy9vS1KxB_64XUumg')
+bot.run('Token')
